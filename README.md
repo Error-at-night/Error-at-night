@@ -4,6 +4,6 @@ I have had the opportunity to teach and mentor aspiring frontend developers, hel
 
 I am also looking forward to expanding my skills into backend development to broaden my expertise and build more robust, full-stack solutions. 
 
-I am always open to learning new and other frameworks and technologies to deliver the best results. 
+I am always open to learning other frameworks and technologies to deliver the best results. 
 
 Let us connect and build something amazing together.
